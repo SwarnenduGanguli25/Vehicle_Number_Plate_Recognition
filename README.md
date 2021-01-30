@@ -3,7 +3,7 @@
 *This project is basically divided into 3 major parts*:-
 <br>
 
-**1. DETECTION:-** In this part, we used YOLOv3 with darknet configuration to detect the license plates with pre-trained weights and model and then store the coordinates in a json file.
+**1. DETECTION:-** In this part, we used YOLOv3 with darknet configuration to detect the license plates with pre-trained weights and model and then store the coordinates in a json file. https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/Vehicle_Number_Plate_Detection(Using_YOLOv3).ipynb
 <br>
 
 **2. CROPPING:-** Here, we cropped out the license plate from the rest of the image by deducing border coordinates from the json file.
