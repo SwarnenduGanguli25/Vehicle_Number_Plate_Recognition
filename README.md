@@ -6,7 +6,7 @@
 **1. DETECTION:-** In this part, we used YOLOv3 with darknet configuration to detect the license plates with pre-trained weights and model and then store the coordinates in a json file. https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/Vehicle_Number_Plate_Detection(Using_YOLOv3).ipynb
 <br>
 
-**2. CROPPING:-** Here, we cropped out the license plate from the rest of the image by deducing border coordinates from the json file.
+**2. CROPPING:-** Here, we cropped out the license plate from the rest of the image by deducing border coordinates from the json file. https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/Vehicle_Plates_Crop(OCR).ipynb
 <br>
 
 **3. RECOGNITION:-** This is the final part where we used Microsoft Computer Vision API for recognizing the text from the license plates.
