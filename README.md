@@ -30,6 +30,9 @@ All the files were not able to be uploaded due to large size. So, here are the l
 **Trained Weights(To be used in YOLO)-** https://drive.google.com/file/d/1I3JY2-0mr1wNz7ifEzxct8GJyxEy-doL/view
 <br>
 
+**Dataset used for OCR with Tesseract-** https://drive.google.com/drive/folders/14WqPaVs3dQ_A5PDznk0t7KQTlOhwsJKT?usp=sharing
+<br>
+
 Also, you need to GIT CLONE(For Darknet): https://github.com/AlexeyAB/darknet.git
 <br>
 
