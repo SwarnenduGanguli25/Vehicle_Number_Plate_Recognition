@@ -9,7 +9,11 @@
 **2. CROPPING:-** Here, we cropped out the license plate from the rest of the image by deducing border coordinates from the json file. https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/Vehicle_Plates_Crop(OCR).ipynb
 <br>
 
-**3. RECOGNITION:-** This is the final part where we used Microsoft Computer Vision API for recognizing the text from the license plates. https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/Vehicle_Number_Plates(OCR).ipynb
+**3. RECOGNITION:-** This is the final part where we recognized the text from the license plates.  
+a) Using Microsoft Visual Studio API:  
+https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/Vehicle_Number_Plates(OCR).ipynb  
+b) Using Tesseract:  
+
 <br>
 
 All the files were not able to be uploaded due to large size. So, here are the links which will help you:
