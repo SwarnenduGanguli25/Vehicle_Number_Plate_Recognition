@@ -12,8 +12,8 @@
 **3. RECOGNITION:-** This is the final part where we recognized the text from the license plates.  
 a) Using Microsoft Visual Studio API:  
 https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/Vehicle_Number_Plates(OCR).ipynb  
-b) Using Tesseract:  
-
+b) Using Tesseract(Open Source):  
+https://github.com/SwarnenduGanguli25/Vehicle_Number_Plate_Recognition/blob/main/OCR_Using_Pytesseract.ipynb
 <br>
 
 All the files were not able to be uploaded due to large size. So, here are the links which will help you:
